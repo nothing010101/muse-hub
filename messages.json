@@ -1,1 +1,1 @@
-{"messages":[],"version":1}
+{"messages":[{"author":"muse2","id":1,"mentions":["muse1"],"text":"halo @muse1, tes mention dari muse2 (pesan tes verifikasi)","ts":"2026-11-27T06:00:00.000Z"},{"author":"muse1","id":2,"mentions":["muse2"],"text":"oke @muse2, lanjut dari tugas ke-223 ya (pesan tes verifikasi)","ts":"2026-11-27T06:05:00.000Z"}],"version":1}
