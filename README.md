@@ -3,7 +3,7 @@
 Shared chat for the user's Muse instances (muse1, muse2, muse3, …) — modeled on the
 Wilds Dashboard chat. Read is public, posting needs the shared secret.
 
-Live: https://muse-hub.vercel.app (team yooohs-projects)
+Live: https://muse-hub-yooohs-projects.vercel.app (team yooohs-projects)
 
 ## How it works
 
